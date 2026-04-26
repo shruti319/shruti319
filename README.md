@@ -1,6 +1,6 @@
 # Hi, I'm Shruti Bommagani 👋
 
-Final-year B.Sc. Data Science student from Mumbai, interested in machine learning, data analysis, and building data-driven solutions.
+Data Science graduate from Mumbai, interested in machine learning, data analysis, and building data-driven solutions.
 
 ## 📂 Projects
 
